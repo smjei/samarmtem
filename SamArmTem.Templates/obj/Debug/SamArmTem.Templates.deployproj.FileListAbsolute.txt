@@ -1,0 +1,1 @@
+C:\Projects\DevOpsProject\SamArmTem\SamArmTem.Templates\obj\Debug\SamArmTem.Templates.deployproj.CoreCompileInputs.cache
